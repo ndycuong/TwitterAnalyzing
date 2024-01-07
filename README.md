@@ -1,6 +1,9 @@
-# IT5384 - Group 2 - Problem 1
+# This is a small project on Course Big Data Storage and Processing using:  
+Spark-dataProcessing&Cleaning  
+GCSBucket-dataStoring  
+ElasticsearchKibana-dataIndexing&Pushing&Visualizing
 
-## Data Structure
+## Data Structure 
 
 ### Object: user
 | Field         | Data type     | Description               |
