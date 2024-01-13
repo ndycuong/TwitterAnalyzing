@@ -2,6 +2,10 @@
 ### Spark-dataProcessing&Cleaning  
 ### GCSBucket-dataStoring  
 ### ElasticsearchKibana-dataIndexing&Pushing to Visualizing
+3 steps for processing Twitter data:  
+Bot Account Removal: Identified and removed bot accounts to ensure data integrity.  
+Geo-bert Model for Location Prediction: Used Geo-bert for geographical predictions from tweet content and openstreetmap geo api for decoding location field.  
+Sentiment Analysis of Tweets: Analyzed tweets for sentiment to understand user opinions and emotions.  
 
 ## Data Structure 
 
