@@ -1,4 +1,4 @@
-## Final kibana visualization found on report: https://github.com/ndycuong/TwitterAnalyzing/blob/main/Evaluating%20users%20by%20Geographical%20area.pdf  
+## Final kibana visualization found on report: https://github.com/ndycuong/TwitterAnalyzing/blob/main/report-Xproblem.pdf  
 
 
 # This is a small project on Course Big Data Storage and Processing using:  
