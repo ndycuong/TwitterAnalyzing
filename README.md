@@ -1,7 +1,5 @@
 ## Final kibana visualization found on report: https://github.com/ndycuong/TwitterAnalyzing/blob/main/report-Xproblem.pdf  
 
-
-# This is a small project on Course Big Data Storage and Processing using:  
 ### Spark-dataProcessing&Cleaning  
 ### GCSBucket-dataStoring  
 ### ElasticsearchKibana-dataIndexing&Pushing to Visualizing
